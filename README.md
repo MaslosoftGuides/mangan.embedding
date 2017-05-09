@@ -2,6 +2,12 @@ Repository for [Mangan Embedding Documentation](https://maslosoft.com/mangan/doc
 
 In this example data will be stored in `embedding` database.
 
+To prepare, issue following command:
+
+```
+composer install
+```
+
 To see saving results run following command and check your MongoDB:
 
 ```
